@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">food_delivery</string>
+    <string name="skip">Skip</string>
+    <string name="welcome">Welcome to</string>
+    <string name="foodhub">FoodHub</string>
+    <string name="food_hub_desc">Your favorite foods delivered fast at your door</string>
+    <string name="you_already_have_an_account">You already have an account</string>
 </resources>
